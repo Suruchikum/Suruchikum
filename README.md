@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Suruchi Kumari" width="500">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Suruchi Kumari" width="500"  height="400">
 </div>
 
 <div id="toc">
