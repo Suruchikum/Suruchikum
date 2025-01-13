@@ -38,10 +38,12 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="mailto:codeatfreelance@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" style="margin-right: 4px">
-</a>
+  
 <a href="https://twitter.com/suruchi1241082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suruchi1241082" height="30" width="40" /></a>
+<a href="mailto:codeatfreelance@gmail.com">
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" style="margin-right: 4px;" />
+</a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suruchi-kumari-059b8730a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suruchi-kumari-059b8730a/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/suruchi15.10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/suruchi15.10/" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/https://www.geeksforgeeks.org/user/22it3xs3y/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/https://www.geeksforgeeks.org/user/22it3xs3y/" height="30" width="40" /></a>
