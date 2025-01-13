@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **Suruchikum/Suruchikum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Suruchi Kumari" width="700"  height="300">
 </div>
-<!-- <h1 align="center">Hi 👋, I'm Suruchi Kumari</h1> -->
+<h1 align="center">Hi 👋, I'm Suruchi Kumari</h1> 
 <h3 align="center">🚀 Self taught and a passionate Fullstack Web Developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. I love exploring the challenges and adore evolving technologies.</h3>
 
 
