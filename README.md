@@ -14,14 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Suruchi Kumari</h1>
+<div align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:1358/0*FGD6BUzzZs1VJLuY.gif" alt="👋 Hi, my name is Suruchi Kumari" width="700"  height="300">
+</div>
+<!-- <h1 align="center">Hi 👋, I'm Suruchi Kumari</h1> -->
 <h3 align="center">🚀 Self taught and a passionate Fullstack Web Developer, creating robust and scalable web applications. Skilled in both front-end and back-end technologies, with a keen eye for user experience and performance optimization. I love exploring the challenges and adore evolving technologies.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suruchikum" alt="suruchikum" /></a> </p>
 
-- 🔭 I’m currently working on Solving issues and create a new project [textToExcel](https://github.com/Suruchikum/textToExcel)
 
-- 🌱 I’m currently learning **React.js, REST APIs, Firebase, Git/GitHub**
+- 🔭 I’m currently working on Solving issues and  **Create Some Project👨‍💻.** [textToExcel](https://github.com/Suruchikum/textToExcel)
+
+- 🌱 I’m currently learning **React.js, REST APIs, Firebase
 
 - 👯 I’m looking to collaborate on [Blood Donation Website](https://github.com/Suruchikum/Blood-Donation1-RGIPT)
 
