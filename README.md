@@ -41,7 +41,7 @@ Here are some ideas to get you started:
   
 <a href="https://twitter.com/suruchi1241082" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="suruchi1241082" height="30" width="40" /></a>
 <a href="mailto:codeatfreelance@gmail.com">
-  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" height="30" style="margin-right: 4px;" />
+  <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/suruchi-kumari-059b8730a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suruchi-kumari-059b8730a/" height="30" width="40" /></a>
